@@ -1,5 +1,5 @@
-# GSAP ScrollTrigger Example
-## An Example using GSAP ScrollTrigger to control a video in an Element on a page
+# GSAP ScrollTrigger Keyhole Example
+## An Example using GSAP ScrollTrigger to control a keyhole animation masking an image
 ### Notes: 
 1. This example loads GSAP and ScrollTrigger from a CDN.
 2. ScrollTrigger is used to enable animating an expanding keyhole view of an underlying image
